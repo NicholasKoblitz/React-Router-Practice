@@ -1,0 +1,23 @@
+#vending {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#links a {
+    margin: .25rem;
+    border-radius: 10px;
+    padding: .25rem .5rem;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(45, 14, 37);
+    font-weight: bolder;
+}
